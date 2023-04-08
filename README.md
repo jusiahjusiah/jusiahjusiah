@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello everyone! I'm Jusiah, a curious and proactive learner who enjoys reading philosophical books Currently, I'm working on improving my skills in programming and web development.<br>🌱 I'm always eager to learn and currently expanding my knowledge in React, Tailwind CSS, and other modern web development technologies.<br>💬 Feel free to ask me about anything related to programming and web development. I'm always happy to share my knowledge and help others.<br>🎉 Fun fact: I love all kinds of Metal music and a die hard anime fan<br>
+👋 Hello everyone! I'm Jusiah, a curious and proactive learner who enjoys reading philosophical books Currently, I'm working on improving my skills in programming and web development.<br>🌱 I'm always eager to learn and currently expanding my knowledge in React, Tailwind CSS, and other modern web development technologies.<br>💬 Feel free to ask me about anything related to programming and web development. I'm always happy to share my knowledge and help others.<br>🎉 Fun fact: I love all kinds of Metal music and a die hard anime fan! 😜 <br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
