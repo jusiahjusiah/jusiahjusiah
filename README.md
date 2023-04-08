@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hello everyone! I'm Jusiah, a curious and proactive learner who enjoys reading philosophical books Currently, I'm working on improving my skills in programming and web development.<br>🌱 I'm always eager to learn and currently expanding my knowledge in React, Tailwind CSS, and other modern web development technologies.<br>💬 Feel free to ask me about anything related to programming and web development. I'm always happy to share my knowledge and help others.<br>🎉 Fun fact: I love all kinds of Metal music and a die hard anime fan<br>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jusiah-sioson-) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jusiahsioson) [![](https://visitcount.itsvg.in/api?id=jusiahjusiah&icon=7&color=11)](https://visitcount.itsvg.in)
@@ -18,8 +20,7 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=jusiahsioson)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ---
 
